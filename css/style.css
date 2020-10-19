@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	font-family: system-ui;
+	text-align: center;
+}
+
+h3 {
+	font-size: 30px;
+	
+}
+
+.container {
+  max-width: 720px;
+  margin: auto;
+  overflow: hidden;
+}
+
+  h1 {
+  	font-size: 24px;
+  }
+
+.box {
+	background: lightgrey;
+    float: left;
+    margin: 15px 10px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+}
+
+footer {
+	max-width: 960px;
+	margin: auto;
+    background: rgb(214, 214, 212);
+    overflow: hidden;
+
+}
+
+.img-1 {
+	width: 30%;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 65px;
+	padding-bottom: 50px;
+	box-sizing: border-box;
+
+}
